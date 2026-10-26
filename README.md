@@ -60,7 +60,12 @@ The two models describe different theoretical limits and rely on different chann
 
 ## Repository Structure
 
-
+School-Course-Project-Technical-Report-for-the-BS3---Networks-and-Data-Communications-Course/
+├── Data
+├── Draft of Technical Report
+├── graphs
+├── OriginPro_2024b
+└─────
 
 ## Tools
 
